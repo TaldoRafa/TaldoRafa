@@ -4,8 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Engenharia de Software na FAG.
-- 💼 A procura de uma oportunidade de trabalho como dev back-end com Java.
-- 🌱 Aprendendo mais sobre Java, Angular, Spring Boot e Quarkus.
+- 🌱 Aprendendo mais sobre Java, Spring Boot e Quarkus.
 
 ## Minhas Skills
 
