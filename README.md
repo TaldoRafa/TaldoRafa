@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Engenharia de Software na FAG.
-- 🌱 Aprendendo mais sobre Java, Spring Boot e Quarkus.
+- 🌱 Aprendendo mais sobre Java e Spring Boot.
 
 ## Minhas Skills
 
